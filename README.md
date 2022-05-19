@@ -3,12 +3,12 @@
 This is an archive of the AUR package for Netbeans 8
 previously available on the AUR.
 
-## How to Build
+## How to Build & Install
 ```
 # pacman -S --needed base-devel
 $ git clone https://github.com/arvl130/aurpkg-netbeans8
 $ cd aurpkg-netbeans8
-$ makepkg -s
+$ makepkg -si
 ```
 
 ## Downloads
