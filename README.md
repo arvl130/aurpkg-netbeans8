@@ -6,6 +6,8 @@ previously available on the AUR.
 ## How to Build
 ```
 # pacman -S --needed base-devel
+$ git clone https://github.com/arvl130/aurpkg-netbeans8
+$ cd aurpkg-netbeans8
 $ makepkg -s
 ```
 
