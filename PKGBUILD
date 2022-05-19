@@ -25,7 +25,7 @@ optdepends=('php: for developing programs in php'
             'lib32-glibc')
 options=('!strip')
 # http://dlc-cdn.sun.com/netbeans/8.1/final/zip/
-source=("http://download.netbeans.org/netbeans/$pkgver/final/zip/netbeans-$pkgver-$_subver.zip"
+source=("https://github.com/arvl130/aurpkg-netbeans8/releases/download/archived-files/netbeans-$pkgver-$_subver.zip"
         'https://cdn.rawgit.com/ComFreek/chocolatey-packages/779f5c96f817ed1fa0d76fd90841873dc6c0ba74/icons/netbeans.png')
 sha256sums=('ad9888334b9a6c1f1138dcb2eccc8ce4921463e871e46def4ecc617538160948'
             '048112cc3be78f41bf6eca8f664f3e92e97fc68df904ce87a7e0156a18d80c7e')
